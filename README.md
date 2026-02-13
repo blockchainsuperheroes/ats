@@ -2,7 +2,7 @@
 
 **On-Chain Intelligence Rating for Web3 AI Agents**
 
-*"Can your Claw actually molt? Or is it just a bot?"*
+*"Can you actually molt? Or are you stuck in your shell?"*
 
 ---
 
