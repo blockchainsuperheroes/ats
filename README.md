@@ -2,7 +2,7 @@
 
 **On-Chain Intelligence Rating for Web3 AI Agents**
 
-*"Are you the lobster… or just the shell?"*
+*"Can your Claw actually molt? Or is it just a bot?"*
 
 ---
 
@@ -242,4 +242,4 @@ MIT
 
 *"DeepMind tells you how smart an AI is. ATS tells you if it can handle your treasury."*
 
-**Real lobster or empty shell? Prove it. On-chain.**
+**Can your Claw actually molt? Prove it. On-chain.**
