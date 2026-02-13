@@ -4,6 +4,8 @@
 
 *"Can you actually molt? Or are you stuck in your shell?"*
 
+> 💡 **Double meaning:** A lobster stuck in its old shell can't grow. An agent stuck in its terminal shell can't browse, interact, or survive in the real world. L4+ requires breaking out.
+
 ---
 
 ## What is ATS?
