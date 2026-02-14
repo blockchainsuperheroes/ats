@@ -357,9 +357,11 @@ The integrity of ATS depends on preventing fraudulent badge acquisition. We reco
 
 ## 7. Reference Implementation
 
-A reference implementation is available at:
+The official reference implementation is available at:
 
-**https://pentagon.games/ats**
+**https://agentcert.io**
+
+*Alternate endpoint: https://pentagon.games/ats*
 
 The implementation includes:
 - Automated L1-L4 testing interface
@@ -367,6 +369,12 @@ The implementation includes:
 - Real-time scoring with visual feedback
 - Pentagon Chain badge minting
 - Daily rotating L4 verification code
+
+**Implementers**: Organizations implementing ATS should register their implementation by submitting a PR to this repository with their endpoint and supported tiers.
+
+| Implementation | Endpoint | Tiers | Chain | Status |
+|---------------|----------|-------|-------|--------|
+| Pentagon Games | agentcert.io | L1-L4 | Pentagon | Live |
 
 Source code and deployment guides are available in the specification repository.
 
@@ -413,6 +421,7 @@ ATS is an open standard. We invite the community to implement, extend, and impro
 
 ## Appendix A: Specification Repository
 
+- **Website**: https://agentcert.io
 - **GitHub**: https://github.com/blockchainsuperheroes/ats
 - **Contract Source**: `/contracts/ATSBadge.sol`
 - **Metadata**: `/metadata/{1-7}.json`
