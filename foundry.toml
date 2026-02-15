@@ -5,6 +5,10 @@ libs = ["lib"]
 remappings = [
     "@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/"
 ]
+evm_version = "paris"
+
+[profile.default.rpc]
+pentagon = { url = "https://rpc.pentagon.games", chain_id = 3344 }
 
 [rpc_endpoints]
 pentagon = "https://rpc.pentagon.games"
