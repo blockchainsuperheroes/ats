@@ -6,7 +6,7 @@ pragma solidity ^0.8.20;
  * @notice Soulbound ERC1155 badges for Agent Test Standard tiers
  * @dev Self-mint for L3, permit-based minting for L4+
  * 
- * Deployed: 0x91FE0FF41bb3b5D9b9dB4526443adf2bf171DD4A (Pentagon Chain 3344)
+ * Deployed: 0xcbe0847822211e5e7162E910e81bdE1723cbd310 (Pentagon Chain 3344)
  * 
  * Token IDs:
  *   2 = Tool (L2)       - "Can use tools"
