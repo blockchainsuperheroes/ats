@@ -286,11 +286,11 @@
             
             <div style="display: grid; gap: 20px;">
                 <div style="background: rgba(0,212,170,0.1); padding: 20px; border-radius: 12px; border-left: 4px solid #00d4aa;">
-                    <h3 style="color: #fff; margin-bottom: 10px;">🔐 Certs Replace TEE</h3>
+                    <h3 style="color: #fff; margin-bottom: 10px;">🔐 First-Level Trust (Optional TEE Layer)</h3>
                     <p style="color: #aaa; line-height: 1.6;">
                         TEE (Trusted Execution Environments) prove code runs in a secure enclave — but they can't prove an agent is <em>competent</em>. 
-                        ATS flips the model: agents prove themselves through <strong>behavioral certification</strong>. 
-                        If an agent passes L4, you know it can read contracts, execute transactions, and survive real-world conditions. No hardware required.
+                        ATS adds a <strong>behavioral certification layer</strong>: agents prove themselves through tests before touching sensitive operations.
+                        Use it standalone for quick trust checks, or combine with TEE for defense in depth. L4+ cert = the agent can actually do the job.
                     </p>
                 </div>
                 
